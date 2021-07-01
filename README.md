@@ -6,7 +6,7 @@ There are 2 parts to this project
 2. Predicting the number of Covid-19 Hospitalizations the next day. (Competition)
 
 Models used for the 2 parts:
-1. Neural Networks, Decision Trees + AdaBoost (Accuracy: 0.76)
+1. Neural Networks, Decision Trees + AdaBoost (Accuracy: 0.75699)
 2. Neural Networks (Mean squared error: 91809)
 
 We passed the baseline score on the first task and secured **8th place** on the Kaggle leaderboard for the competition task.
